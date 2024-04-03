@@ -24,4 +24,8 @@ https://forums.docker.com/t/docker-stops-responding-on-macos-error-on-arch-linux
 
 workaround is to use Imagemagick 7 easy installer https://github.com/SoftCreatR/imei, workaround is using in Docker_bug_workaround/Dockerfile  
   
+Extra:  
+- phpMyAdmin https://localhost:8080/phpmyadmin/  
+- credentials: root / new_password  
+  
 Play Develop Enjoy
