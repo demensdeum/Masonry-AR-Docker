@@ -3,7 +3,7 @@ Masonry-AR-Docker
   
 Inspired by: https://github.com/mattrayner/docker-lamp/ 
   
-Dockerfile for LAMP + Masonry-AR client, server  
+Dockerfile for LAMP + [Masonry-AR](https://github.com/demensdeum/Masonry-AR) client, server  
   
 Build:  
 ./buildImage.sh  
