@@ -7,6 +7,7 @@ Dockerfile for LAMP + Masonry-AR client, server
   
 Build:  
 ./buildImage.sh  
+  
 Run Environment:  
 docker run -p 8080:80 -it  <image_id>  
   
