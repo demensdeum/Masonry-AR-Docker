@@ -18,3 +18,5 @@ Here is also Docker bug, that could be reproduces from root Dockerfile:
 https://forums.docker.com/t/docker-stops-responding-on-macos-error-on-arch-linux-while-building-image/140650  
 
 workaround is to use Imagemagick 7 easy installer https://github.com/SoftCreatR/imei, this workaround is using in Docker_bug_workaround/Dockerfile
+
+Play Develop Enjoy
