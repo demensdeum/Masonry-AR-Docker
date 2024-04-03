@@ -8,6 +8,9 @@ Dockerfile for LAMP + [Masonry-AR](https://github.com/demensdeum/Masonry-AR) cli
 Build:  
 ./buildImage.sh  
   
+or install image:  
+docker run -p8080:80 -it demensdeum/masonry-ar:v1.0  
+  
 Run Environment:  
 docker run -p 8080:80 -it  <image_id>  
   
