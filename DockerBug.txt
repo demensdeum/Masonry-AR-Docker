@@ -1,0 +1,4 @@
+Stuck on ImageMagick 7 build
+https://forums.docker.com/t/docker-stops-responding-on-macos-error-on-arch-linux-while-building-image/140650 
+
+Workaround is to use ImageMagick build scripts from https://github.com/SoftCreatR/imei
